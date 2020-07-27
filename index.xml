@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prakash Sudhakar</title>
+    <link>https://prakashsudhakar.github.io/</link>
+    <description>Recent content on Prakash Sudhakar</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Prakash Sudhakar | All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://prakashsudhakar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://prakashsudhakar.github.io/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://prakashsudhakar.github.io/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://prakashsudhakar.github.io/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://prakashsudhakar.github.io/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://prakashsudhakar.github.io/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://prakashsudhakar.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/privacy/</guid>
+      <description>&lt;p&gt;I partner with &lt;a href=&#34;https://analytics.google.com/analytics/web/&#34;&gt;Google Analytics&lt;/a&gt; to allow tracking technologies and remarketing services on the site through the use of first-party cookies and third-party cookies, to, among other things, analyze and track user&amp;rsquo;s use of the Site.&lt;/p&gt;
+&lt;p&gt;This information is collected via cookies. Most web browsers allow you to control the handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you.&lt;/p&gt;
+&lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type,  version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports to gauge visitor traffic and trends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://prakashsudhakar.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://prakashsudhakar.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
